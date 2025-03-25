@@ -1,0 +1,24 @@
+{
+  "name": "LEP #1",
+  "description": "LEP NFT Collection by Luisa Estudillo",
+  "image": "ipfs://QmWqAgeMjf6UQyaFZMVtvd2h6y7RonaU9P1ffZuCe1753U",
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "Luisa Estudillo"
+    },
+    {
+      "trait_type": "Técnica",
+      "value": "Técnica mixta sobre lienzo"
+    },
+    {
+      "trait_type": "Año",
+      "value": "2000"
+    },
+    {
+      "trait_type": "Tamaño",
+      "value": "81x20cms"
+    }
+  ],
+  "external_url": "https://lime-binding-buzzard-28.mypinata.cloud/ipfs/QmWqAgeMjf6UQyaFZMVtvd2h6y7RonaU9P1ffZuCe1753U"
+}
