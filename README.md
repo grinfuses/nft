@@ -66,4 +66,12 @@ npx hardhat run scripts/mint.js --network sepolia
 
 ## Licencia
 
-MIT 
+Este proyecto está licenciado bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para más detalles.
+
+La Licencia MIT es una licencia de software permisiva que permite:
+- Uso comercial
+- Modificación
+- Distribución
+- Uso privado
+
+La única condición es incluir el aviso de copyright y la licencia en cualquier copia del software/código. 
