@@ -64,6 +64,12 @@ npx hardhat run scripts/mint.js --network sepolia
 - No compartir API keys
 - Usar siempre `.gitignore`
 
+## Contacto
+
+Si tienes preguntas sobre el proyecto o quieres colaborar, puedes contactarme:
+
+- **GitHub**: [@grinfuses](https://github.com/grinfuses)
+
 ## Licencia
 
 Este proyecto está licenciado bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para más detalles.
